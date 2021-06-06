@@ -2,3 +2,13 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+img[alt=poster] { width: 400px; }
+img[alt=map] { width: 800px; }
+
+.page-header{
+    background-image: url("../images/fk.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-color: black;
+}
