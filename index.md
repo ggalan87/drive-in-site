@@ -4,7 +4,7 @@ layout: drivein
 
 # Επόμενη προβολή
 
-Τετάρτη 8 Ιουνίου 2022 στις 21.00 (προσέλευση από τις 20.30) 
-- [fb event](https://fb.me/e/2sl4tdFVl)
+Τετάρτη 22 Ιουνίου 2022 στις 21.00 (προσέλευση από τις 20.30) 
+- [fb event](https://www.facebook.com/events/3215323232072175)
 
-![poster](./assets/images/apontes.jpg)
+![poster](./assets/images/suntan.jpg)
