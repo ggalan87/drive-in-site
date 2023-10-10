@@ -4,7 +4,7 @@ layout: drivein
 
 # Επόμενη προβολή
 
-Πέμπτη 25 Μαΐου 2023 στις 20.30 (προσέλευση από τις 20.00) 
-- [fb event](https://fb.me/e/CpfClxuw)
+Τετάρτη 11 Οκτωβρίου 2023 στις 20.00 (προσέλευση από τις 19.30) 
+- [fb event](https://www.facebook.com/events/830845488736364)
 
-![poster](./assets/images/to_3ypnhma_ths_anoi3hs.webp)
+![poster](./assets/images/la_haine.jpg)
